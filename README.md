@@ -47,10 +47,15 @@ reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
 27. Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente y la corriente total.
 ![27](https://user-images.githubusercontent.com/93893919/155616379-aa00b4b7-714e-4cb9-99cc-94d0ff82138e.png)
 29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
+![28](https://user-images.githubusercontent.com/93893919/155618284-1a6cb406-76e9-45c9-8678-d8d4bdb49925.png)
 31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
+![29](https://user-images.githubusercontent.com/93893919/155618294-85270223-6a2b-482b-8cc5-22d82e483e59.png)
 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
+![30](https://user-images.githubusercontent.com/93893919/155618308-d6618438-d468-417b-affb-51aae364ef8f.png)
 35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b en la figura 17-69?
+![31](https://user-images.githubusercontent.com/93893919/155618401-8972829d-30df-45b5-beed-883efada7f54.png)
 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
+![32](https://user-images.githubusercontent.com/93893919/155618412-552e8816-7b7a-4536-ae40-c95d645b5aa4.png)
 ### PARTE 4: TEMAS ESPECIALES
 #### SECCIÓN 17–8 Ancho de banda de circuitos resonantes.
 39. En condición de resonancia, XL = 2 khoms y RW = 25 homs en un circuito RLC en paralelo. La frecuencia resonante es de 5 kHz. Determine el ancho de banda.
