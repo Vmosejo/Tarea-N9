@@ -56,7 +56,7 @@ reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
 43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál es el ancho de banda a la misma fr?
 ### CAPÍTULO 18: Filtros Pasivos
 #### SECCIÓN 18–1 Filtros pasabajas
-1. En cierto filtro pasa bajas, Xc = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V ms?
+1. En cierto filtro pasa bajas, Xc = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?
 
 Aplicamos la fórmula del divisor de voltaje, por lo tanto, la magnitud del voltaje de salida es:
 
