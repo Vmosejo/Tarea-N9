@@ -97,7 +97,9 @@ Aplicamos la fórmula del divisor de voltaje, por lo tanto, la magnitud del volt
 15.	Trace la curva de Bode para cada filtro mostrado en la figura 18-41.
 
 ![image](https://user-images.githubusercontent.com/93681159/155608881-368bda91-7697-4818-bdef-6c8d1ddc57d0.png)
-![image](https://user-images.githubusercontent.com/93681159/155608780-0eb9e721-cf6f-40c1-b4b0-1d6eb7c61a26.png)
+![image](https://user-images.githubusercontent.com/93681159/155613764-df852737-b960-46dc-a617-7240bbbe6230.png)
+![image](https://user-images.githubusercontent.com/93681159/155613861-4081b33e-c978-40b4-8ce2-c77053e4f98a.png)
+
 
 #### SECCIÓN 18–3 Filtros pasabanda
 17.	Determine la frecuencia central para cada filtro de la figura 18-43.
