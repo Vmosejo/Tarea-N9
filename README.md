@@ -41,9 +41,11 @@ reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
 23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.
 ![23](https://user-images.githubusercontent.com/93893919/155431537-dbcf988f-38b2-43d0-89d0-d6e43bf67ba7.png)
 25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
+![24](https://user-images.githubusercontent.com/93893919/155616349-55e312d4-7376-4950-80b1-f312426195f3.png)
 ### PARTE 3: CIRCUITOS EN SERIE-PARALELO
 #### SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO.
 27. Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente y la corriente total.
+![27](https://user-images.githubusercontent.com/93893919/155616379-aa00b4b7-714e-4cb9-99cc-94d0ff82138e.png)
 29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
 31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
