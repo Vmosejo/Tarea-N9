@@ -116,6 +116,9 @@ Aplicamos la fórmula del divisor de voltaje, por lo tanto, la magnitud del volt
 ![image](https://user-images.githubusercontent.com/93681159/155609373-5ccdd712-9e0d-4507-a415-b08b2d4e5026.png)
 
 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e Ic(máx) = 20 mA, Vc(máx) = 2.5 V.
+
+![image](https://user-images.githubusercontent.com/93681159/155615209-ca952a38-ff77-4397-842d-2ee0757839b6.png)
+
 #### SECCIÓN 18–4 Filtros Rechazabanda
 25.	Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
 
