@@ -114,8 +114,9 @@ Aplicamos la fórmula del divisor de voltaje, por lo tanto, la magnitud del volt
 ![image](https://user-images.githubusercontent.com/93681159/155617348-58dc56a2-f86a-451b-8af7-ad8639ceadc7.png)
 
 a) 15.06 kHz, 13.94 kHz.
+
 b) 25.3 kHz, 22.7 kHz.
-![image](https://user-images.githubusercontent.com/93681159/155616533-df334093-4b51-44dd-b4da-2645468f81d7.png)
+
 
 21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 120 V?
 
