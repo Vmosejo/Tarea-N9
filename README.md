@@ -107,7 +107,7 @@ Aplicamos la fórmula del divisor de voltaje, por lo tanto, la magnitud del volt
 ![image](https://user-images.githubusercontent.com/93681159/155608960-6ae08ec7-51b3-498f-afc6-a34a10c50336.png)
 ![image](https://user-images.githubusercontent.com/93681159/155609292-f835db28-2a84-467a-a57c-10d889612f35.png)
 
-19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f_0.
+19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0.
 
 
 21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 120 V?
