@@ -59,8 +59,11 @@ reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
 ### PARTE 4: TEMAS ESPECIALES
 #### SECCIÓN 17–8 Ancho de banda de circuitos resonantes.
 39. En condición de resonancia, XL = 2 khoms y RW = 25 homs en un circuito RLC en paralelo. La frecuencia resonante es de 5 kHz. Determine el ancho de banda.
+![39](https://user-images.githubusercontent.com/93893919/155619574-b1bd3641-7e54-480c-ba1a-ce9b5e5f5c3a.png)
 41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la frecuencia crítica baja?
+![40](https://user-images.githubusercontent.com/93893919/155619583-b2e4010d-06fe-4e6a-ace6-7fe4259797b7.png)
 43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál es el ancho de banda a la misma fr?
+![41](https://user-images.githubusercontent.com/93893919/155619589-368f176b-fc8d-4610-af86-296e8ce8c41c.png)
 ### CAPÍTULO 18: Filtros Pasivos
 #### SECCIÓN 18–1 Filtros pasabajas
 1. En cierto filtro pasa bajas, Xc = 500 Ω y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?
