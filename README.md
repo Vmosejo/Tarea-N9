@@ -90,6 +90,7 @@ Aplicamos la fórmula del divisor de voltaje, por lo tanto, la magnitud del volt
 
 13.	Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent = 10 V.
 
+![image](https://user-images.githubusercontent.com/93681159/155610313-9ddc50a2-6fd7-429d-a247-9b8c9fcd39e8.png)
 ![image](https://user-images.githubusercontent.com/93681159/155608204-67a20f52-2145-4cc3-90da-06957e064189.png)
 ![image](https://user-images.githubusercontent.com/93681159/155608349-ec6c5c1a-a215-4241-b638-cfc035a85879.png)
 
