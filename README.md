@@ -106,8 +106,11 @@ Aplicamos la fórmula del divisor de voltaje, por lo tanto, la magnitud del volt
 ![image](https://user-images.githubusercontent.com/93681159/155609292-f835db28-2a84-467a-a57c-10d889612f35.png)
 
 19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f_0.
+
+
 21. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 120 V?
 
+![image](https://user-images.githubusercontent.com/93681159/155610595-1b00809d-e09d-4bff-b3e8-5f37c88d809d.png)
 ![image](https://user-images.githubusercontent.com/93681159/155609373-5ccdd712-9e0d-4507-a415-b08b2d4e5026.png)
 
 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB = 500 Hz; Q = 40; e Ic(máx) = 20 mA, Vc(máx) = 2.5 V.
