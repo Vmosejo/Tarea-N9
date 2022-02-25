@@ -12,6 +12,9 @@ Examinar los contenidos propuestos en los capítulos 17 y 18 del texto “Princi
 
 ![image](https://user-images.githubusercontent.com/93666408/155656249-f18e27d7-c7e5-4fb0-af0f-5661a7af67dd.png)
 
+![Untitled](https://user-images.githubusercontent.com/93666408/155657546-299d2416-cc92-4c3a-9288-260c041b55a3.jpg)
+
+
 ## 3.EJERCICIOS
 ### PARTE 1: CIRCUITOS EN SERIE.
 #### SECCIÓN 17–1 Impedancia de circuitos RLC en serie.
