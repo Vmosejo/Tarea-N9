@@ -1,9 +1,11 @@
 # Tarea-N9
 ## 1.OBJETIVOS
 ### 1.1  General
-
+Examinar los contenidos propuestos en los capítulos 17 y 18 del texto “Principios de circuitos eléctricos” de Floyd, mediante el estudio de los mismos, con el fin de concluir con los tópicos asignados a lo largo de este semestre.
 ### 1.2 Especificos
-
+* Desarrollar un resumen, correspondiente a cada capítulo, mediante mapas conceptuales o diagramas, con el fin de facilitar el entendimiento teórico de los temas a tratar en cada uno de ellos. 
+* Resolver los ejercicios impares de cada uno de los capítulos, para poner en práctica los conocimientos adquiridos.
+* Identificar el funcionamiento y operación de circuitos RLC, RC y RL.
 ## 2.MARCO TEÓRICO (RESUMEN)
 
 ## 3.EJERCICIOS
