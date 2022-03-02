@@ -14,7 +14,8 @@ Examinar los contenidos propuestos en los capítulos 17 y 18 del texto “Princi
 
 ![Untitled](https://user-images.githubusercontent.com/93666408/155657546-299d2416-cc92-4c3a-9288-260c041b55a3.jpg)
 
-![image](https://user-images.githubusercontent.com/93666408/156290502-bfebdbe1-5190-4aa9-b4b1-330402729a65.png)
+![Kanban Framework (2)](https://user-images.githubusercontent.com/93666408/156291577-77bfd9c2-0c6d-4c80-b3c2-26b17f93d671.jpg)
+
 
 
 ## 3.EJERCICIOS
