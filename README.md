@@ -14,6 +14,8 @@ Examinar los contenidos propuestos en los capítulos 17 y 18 del texto “Princi
 
 ![Untitled](https://user-images.githubusercontent.com/93666408/155657546-299d2416-cc92-4c3a-9288-260c041b55a3.jpg)
 
+![image](https://user-images.githubusercontent.com/93666408/156290502-bfebdbe1-5190-4aa9-b4b1-330402729a65.png)
+
 
 ## 3.EJERCICIOS
 ### PARTE 1: CIRCUITOS EN SERIE.
@@ -160,6 +162,10 @@ b) 25.3 kHz, 22.7 kHz.
 https://www.youtube.com/watch?v=i4PAsL-3GCw
 
 ## 5.CONCLUSIONES 
+
+* A través de la resolución de los presentes ejercicios se llegó a la conclusión que los filtros de pasabajas permiten que fluya las señales de baja frecuencia a diferencia de los filtros de pasaaltas que permiten que fluyan las señales de alta frecuencia.
+* Se determino que un circuito RLC en serie está formado por una resistencia, un inductor y un condensador también que las tensiones entre los terminales del condensador y los terminales del inductor estan siempre separados 180°.
+* Para terminar unos de los conceptos claves es el de los filtros de pasabanda permiten que pasen las señales que se encuentran en un determinado intervalo de frecuencia si una frecuencia se pasa del intervalo es eliminada y los filtros de rechaza banda es lo opuesto a los filtros de pasabanda debido a que determina el intervalo de frecuencia donde las frecuencias son rechazadas.
 
 ## 6.BIBLIOGRAFÍA
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
